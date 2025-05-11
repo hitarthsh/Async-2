@@ -21,3 +21,6 @@
 //     console.log(data);
 //   });
 
+// Today we will learn about Fetch API & GitHub API 
+// 1. Fetch API
+// 2. GitHub API
